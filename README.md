@@ -21,13 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">Coding Profiles:</h3>
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=kaur_manpreet)](https://codeforces.com/profile/kaur_manpreet)
-
-[![Leetcode](https://leetcard.jacoblin.cool/kaur_preetman)](https://leetcode.com/kaur_preetman)
-
-[![Codechef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/preetkaurpawar)
 
 
 
