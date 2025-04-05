@@ -13,6 +13,7 @@
   <img src="https://github.com/ritik307/ritik307/blob/main/images/code.gif" width="500" alt="Coding Animation" />
 </p>
 
+
 ---
 
 ### 🌟 About Me
