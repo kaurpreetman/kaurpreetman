@@ -57,7 +57,7 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/manpreet-kaur" target="_blank">
+  <a href="https://www.linkedin.com/in/manpreet-kaur-a0a345288/" target="_blank">
     <img src="https://img.shields.io/badge/-Manpreet%20Kaur-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/manpreetkaur0613" target="_blank">
