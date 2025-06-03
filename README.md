@@ -45,7 +45,21 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kaurpreetman&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
+
+---
+### 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=kaurpreetman&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+
+---
 ### 🔗 Connect with me
 
 <p align="center">
