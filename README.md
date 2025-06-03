@@ -1,17 +1,12 @@
 <!-- Header Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hey!%20I'm%20Manpreet%20Kaur%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
+<div align="center" style="line-height: 1; margin-top: 0; padding-top: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=b63868&text=Hey!%20I'm%20Manpreet%20Kaur%20👋&fontColor=F5FFFA&fontSize=40&fontAlign=50&rotate=0&animation=twinkling" style="margin-top: 0; padding-top: 0;" />
+  <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70056&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+MERN+Lover;Code.+Debug.+Deploy.;Let's+Build+Something+Awesome+Together!+%F0%9F%92%BB" />
-</p>
+</div>
 
 <!-- Code Terminal Style Animation -->
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/code.gif" width="500" alt="Coding Animation" />
-</p>
+
 <p align="center">
   <img src="https://github.com/kaurpreetman/kaurpreetman/blob/main/grid-snake.svg" alt="snake animation"/>
 </p>
